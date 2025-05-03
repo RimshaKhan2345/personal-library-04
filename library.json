@@ -1,0 +1,35 @@
+[
+  {
+    "tittle":"python course",
+    "author":"Mark elson",
+    "publication_year": 2021,
+    "genre":"programmimg",
+    "read_status": true,
+    "added_data":"2025-03-21 1:50:14"
+  },
+{
+  "tittle":"AI Revolution Edition",
+    "author":"Mickel john",
+    "publication_year": 2024,
+    "genre":"programmimg",
+    "read_status": false,
+    "added_data":"2025-03-25 5:50:4"
+},
+{
+  "tittle":"Modern Python Concepts course",
+    "author":"Eva adison",
+    "publication_year": 2025,
+    "genre":"programmimg",
+    "read_status": true,
+    "added_data":"2025-04-20 12:5:14"
+},
+{
+  "tittle":"Effective Java Course",
+    "author":"Juli mark",
+    "publication_year": 2025,
+    "genre":"programmimg",
+    "read_status": false,
+    "added_data":"2025-04-25 3:30:41"
+}
+]
+  
