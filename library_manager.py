@@ -417,4 +417,4 @@ if st.session_state.current_view == "add":
         for author , count in top_author.items():
               st.markdown (f"{author}:{count} book {"'s' if count >1 else "}")
               st.markdown("___")
-              st.markdown ("copyright @ 2025 By Rimsha Tariq presonal library manager",unsafe_allow_html = True)       
+              st.markdown ("copyright @ 2025 By Rimsha Tariq personal library manager",unsafe_allow_html = True)       
