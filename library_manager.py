@@ -291,9 +291,9 @@ def get_library_stats():
             elif nav_options == "Library Statistics":
                 st.session_state.current_view = "stats"
 
-st.markdown("<h1 class='main-header'>Library Management System</h1>", unsafe_allow_html=True)
-if st.session_state.current_view == "add":
-    st.markdown("<h2 class='sub-header'> Add a new Book</h2>", unsafe_allow_html=True)                
+                st.markdown("<h1 class='main-header'>Library Management System</h1>", unsafe_allow_html=True)
+    if st.session_state.current_view == "add":
+                st.markdown("<h2 class='sub-header'> Add a new Book</h2>", unsafe_allow_html=True)                
     
     #adding books input form!
     with st.form(key='add_book_form'):
